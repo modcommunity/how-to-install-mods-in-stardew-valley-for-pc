@@ -1,12 +1,8 @@
-<div align="center">
-
-![banner](./images/banner.png)
-
-</div>
-
 A guide on how to **install mods** in **Stardew Valley** on PC. There are also instructions for using [Vortex](https://www.nexusmods.com/about/vortex/), the recommended mod manager by [Nexus Mods](https://www.nexusmods.com/), and how to install mods manually if preferred!
 
 This guide is focused on **Windows users**, but Linux users running Stardew Valley through **Steam Proton** or **Wine** should also find most instructions adaptable!
+
+[**View Guide On TMC (Recommended Due To Better Formatting)**](https://blog.moddingcommunity.com/how-to-install-mods-in-stardew-valley/)
 
 ## Table Of Contents
 * [Requirements](#requirements)
